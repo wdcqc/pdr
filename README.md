@@ -1,2 +1,2 @@
 # pdr
-You are creating a public repository in your personal account.
+A test to update github pages from cloud services
